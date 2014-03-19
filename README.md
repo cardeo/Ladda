@@ -4,7 +4,7 @@ Buttons with built-in loading indicators, effectively bridging the gap between a
 
 I've taken Hakim's original code and customized it to work with Twitter Bootstrap 3.1.1 
 
-There's a blog post over at **insert here** explaining the customizations and how to integrate them into your Bootstrap projects.
+There's a blog post over at [mattlambert.ca](http://mattlambert.ca/blog/how-to-add-loading-indicators-to-bootstrap-buttons/) explaining the customizations and how to integrate them into your Bootstrap projects.
 
 
 ## License
